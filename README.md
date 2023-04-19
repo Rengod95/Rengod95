@@ -5,4 +5,4 @@
 	  🔥 Kakao - rengod  
 
 
-(the-ilog.com)
+[Blog](the-ilog.com)
